@@ -1,0 +1,41 @@
+1: Você segue em direção a floresta, seu destino é a Ilha das Sombras. Você vai pela trilha ou pela imensidão das árvores?
+1.PELA TRILHA:
+2: Você segue pela trilha até o porto e receia ter de alugar um barco, pois provavelmente ninguém aceitará levá-la até as margens da Ilha das Sombras depois de o alarme ter tocado. Mas de repente, barulhos na floresta, você fica em alerta e se prepara para o confronto como a boa caçadora noturna que é e sem lhe assustar, surgem na sua frente dois saqueadores, eles lhe apontam uma adaga suja de sangue fresco, haviam acabado de fazer outra vítima e queriam a próxima. O que você faz?
+
+1.PELA FLORESTA:
+3: Você segue pela mata até que escuta barulhos nas proximidades, você fica em alerta como a boa caçadora noturna que é, quando de repente, uma figura desengonçada cai a sua frente. - Quem é você? – Você pergunta. - Giovanni, ajude-me, dama. Estou sendo perseguido por dois saqueadores perigosos e não posso enfrentá-los sozinho.
+
+2.LUTA:
+4: Você ainda não estava preparada e perde metade de sua vida. Você está em desvantagem, o que você faz?
+4.1: Você recupera sua vida e agora está mais forte para continuar a luta:
+4.2: Você venceu a luta e pode continuar sua jornada.
+
+2.FOGE/3.FOGE:
+5: Você chega ao porto e, como já era de se esperar, ninguém concorda em te levar às margens da Ilha das Sombras. Com certo pesar, você entrega seu ouro ao despachante do porto e aluga um barco singelo para ir até a Ilha sozinha. Lá chegando, você se depara com o antigo guardião sombrio, Hecarino. Como as histórias antigas diziam, Hecarino era um mestre das sombras muito habilidoso. Diante dele, o que você faz?
+
+3.AJUDAR:
+6: Juntos vocês conseguem derrotar os saqueadores que se aproximavam. Agradecido, Giovanni lhe dá uma recompensa: Um elixir de vida! Após isso, cada um segue sua jornada.Você chega ao porto e, como já era de se esperar, ninguém concorda em te levar às margens da Ilha das Sombras. Com certo pesar, você entrega seu ouro ao despachante do porto e aluga um barco singelo para ir até a Ilha sozinha. Lá chegando, você se depara com o antigo guardião sombrio, Hecarino. Como as histórias antigas diziam, Hecarino era um mestre das sombras muito habilidoso. Diante dele, o que você faz?
+4.CONTINUA:
+7: Você morre para os saqueadores. [GAME OVER]
+4.TOMA ELIXIR:
+8: Você recupera sua vida e agora está mais forte para continuar a luta:
+8B: Você venceu a luta e pode continuar sua jornada.
+DECORRENTE DO ELIXIR:
+9B: Você chega ao porto e, como já era de se esperar, ninguém concorda em te levar às margens da Ilha das Sombras. Com certo pesar, você entrega seu ouro ao despachante do porto e aluga um barco singelo para ir até a Ilha sozinha. Lá chegando, você se depara com o antigo guardião sombrio, Hecarino. Como as histórias antigas diziam, Hecarino era um mestre das sombras muito habilidoso. Diante dele, o que você faz?
+9.LUTA:
+10B: Hecarino é muito forte e derrota você. Fim da linha, minha jovem! [GAME OVER]
+9.FOGE:
+11B: Hecarino é muito habilidoso e extremamente rápido. Ele te alcança e você morre. [GAME OVER]
+5. LUTA:
+13B: Hecarino é muito forte e derrota você. Fim da linha, minha jovem! [GAME OVER]
+5. TOMA ELIXIR DE MORGANA:
+14B: O elixir te dá mais 20 de dano! Você luta com Hecarino: 
+14B.2: Você derrota Hecarino e segue sorrateira para os fundos do castelo das Sombras.
+15B: Ao entrar no castelo, você percebe que entrou direto pela prisão. Você procura por Luciano e o encontra na última cela, sozinho e amoado. Luciano, meu amigo, sou eu, Vânia! Vim para te resgatar! Luciano corre para a grade, feliz em te ver.- Obrigado, Vânia! Vamos, use suas ferramentas e abra esta cela! Você usa seu lock pick e abre a cela, libertando Luciano. Ele te abraça e sugere que vocês corram logo pela floresta antes que Theodor os encontre. Vocês saem do castelo correndo, mas de repente, o céu fica escuro, clima gelado de doer os ossos.... Um estrondo! E então surge a frente de vocês, fantasmagórico e tenebroso, flutuando envolvido por uma fumaça verde, o grande mestre sombrio Theodor! O que você faz?
+15.TOMA ELIXIR:
+16B: Você derrotou o grande mestre das Sombras Theodor e junto com ele se foram as sombras!!! Após tal feito, você e Luciano seguem de volta à Alderan.
+15.LUTA:
+17B: Enquanto Vânia lutava contra Theodor, Luciano esgueirou-se pelo campo e roubou a espada de uma estátua de aço do outro lado das sombras e quando Vânia estava quase perdida, Luciano apunhalou o grande vilão Theodor pelas costas e destruiu o inimigo! Após tal feito, o céu clareou e o frio se foi, o ser horripilante que era Theodor desapareceu junto com as sombras.
+Luciano lhe ajudou a levantar e juntos você voltam à Alderan.
+FINAL: Ao chegar em Alderan, você e Luciano são saudados pelo povo novamente alegre. O rei Alastor, eternamente agradecido, a nomeia caçadora real e protetora do reino. FIM!
+
